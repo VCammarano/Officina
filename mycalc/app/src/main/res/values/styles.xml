@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="button">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:textSize">@dimen/app_label_text_size</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_margin">@dimen/layout_margin</item>
+        <item name="android:textColor">@color/button_white_text</item>
+    </style>
+
+    <style name="digit_button" parent="button">
+        <item name="android:backgroundTint">@color/digit_back</item>
+    </style>
+
+    <style name="op_button" parent="button">
+        <item name="android:fontFamily">sans-serif-black</item>
+        <item name="android:backgroundTint">@color/operation_back</item>
+    </style>
+
+    <style name="display">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">cursive</item>
+        <item name="android:gravity">end</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/display_text_size</item>
+    </style>
+
+</resources>

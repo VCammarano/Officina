@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Città d\'Italia</string>
+    <string name="file_name_label">Nome del File</string>
+    <string name="btn_load_label">Carica File</string>
+    <string name="slert_select_province">Nessuna provincia selezionata</string>
+    <string name="load_cities_menu_item">Carica da file</string>
+</resources>

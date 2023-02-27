@@ -1,0 +1,3 @@
+class main{
+    println("hello")
+}

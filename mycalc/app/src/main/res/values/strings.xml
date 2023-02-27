@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Calc</string>
+    <string name="clear_button_label">C</string>
+    <string name="clear_error_button_label">CE</string>
+    <string name="divide_button_label">/</string>
+    <string name="seven_button_label">7</string>
+    <string name="eight_button_label">8</string>
+    <string name="nine_button_label">9</string>
+    <string name="times_button_label">*</string>
+    <string name="four_button_label">4</string>
+    <string name="five_button_label">5</string>
+    <string name="six_button_label">6</string>
+    <string name="minus_button_label">-</string>
+    <string name="one_button_label">1</string>
+    <string name="two_button_label">2</string>
+    <string name="three_button_label">3</string>
+    <string name="plus_button_label">+</string>
+    <string name="change_sign_button_label">+/-</string>
+    <string name="zero_button_label">0</string>
+    <string name="comma_button_label">,</string>
+    <string name="equal_button_label">=</string>
+</resources>

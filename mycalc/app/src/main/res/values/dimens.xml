@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_padding">15dp</dimen>
+    <dimen name="display_text_size">50sp</dimen>
+    <dimen name="app_label_text_size">30sp</dimen>
+    <dimen name="layout_margin">3dp</dimen>
+</resources>

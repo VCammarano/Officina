@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="inputNome" type="id">nome</item>
+    <item name="inputCognome" type="id">cognome</item>
+    <item name="inputDataNascita" type="id">data</item>
+    <item name="radioMaschio" type="id">sesso</item>
+    <item name="inputLuogoNascita" type="id">luogo</item>
+    <item name="pulsanteCalcola" type="id">calcola</item>
+    <item name="labelRisultato" type="id">risultato</item>
+</resources>
